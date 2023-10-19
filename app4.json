@@ -1,34 +1,6 @@
 {
-	"ADS": {
-	
-		"native_type": "applovin",
-		"inter_type": "applovin",
-		"banner_type": "applovin",
- 
- 
-   
-		"API_URL": "https://switchapp.in/api/",
- 
-		"ironsource_id": "11c7e1165",
-
-	 
-		"banner_applovin": "470305689ee5a9e2",
-		"native_applovin": "bbdc0e7e67dedae6",
-		"interstitial_applovin": "f47e0f70a0c18f0a",
-
-
-		"interstitial_admob": "ca-app-pub-/",
-		"banner_admob": "ca-app-pub-/",
-		"native_admob": "ca-app-pub-/",
-		"rewarde_admob": "ca-app-pub-/",
-
-		 
-		
-		"facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"facebook_rewarde": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
-
-		 
-	}  
-   }
+    "apiUrl" : "https://flixverse.site/FlixVerse/apiakvb/public_html/api/",
+    "pushUpdate" : "off",
+    "newPackage" : "",
+    "NetworkAds" : "x"
+}
